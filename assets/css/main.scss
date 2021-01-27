@@ -130,6 +130,10 @@ article.archive__item {
     padding: 1em 1em 0 0;
 }
 
+div.page__related > div.archive__item-teaser {
+    display: none;
+}
+
 @media screen and (max-width: 64em) {
     .archive__item-teaser {
         width: 128px;
