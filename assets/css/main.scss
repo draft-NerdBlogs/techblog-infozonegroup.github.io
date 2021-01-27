@@ -129,3 +129,28 @@ article.archive__item {
     flex-shrink: 0;
     padding: 1em 1em 0 0;
 }
+
+@media screen and (max-width: 48em) {
+    .archive__item-teaser {
+        flex-shrink: 0.7;
+    }
+}
+
+@media screen and (max-width: 64em) {
+    .archive__item-teaser {
+        flex-shrink: 0.7;
+    }
+}
+
+@media screen and (max-width: 48em) {
+    .archive__item-teaser {
+        flex-shrink: 0.7;
+    }
+}
+
+
+@media screen and (max-width: 24em) {
+    .archive__item-teaser {
+        display: none;
+    }
+}
