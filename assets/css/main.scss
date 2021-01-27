@@ -130,21 +130,21 @@ article.archive__item {
     padding: 1em 1em 0 0;
 }
 
-@media screen and (max-width: 48em) {
+@media screen and (max-width: 96em) {
     .archive__item-teaser {
-        flex-shrink: 0.7;
+        width: 128px;
     }
 }
 
 @media screen and (max-width: 64em) {
     .archive__item-teaser {
-        flex-shrink: 0.7;
+        width: 98px;
     }
 }
 
 @media screen and (max-width: 48em) {
     .archive__item-teaser {
-        flex-shrink: 0.7;
+        width: 64px;
     }
 }
 
