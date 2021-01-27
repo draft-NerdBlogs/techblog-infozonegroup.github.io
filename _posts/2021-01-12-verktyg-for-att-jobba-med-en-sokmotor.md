@@ -5,6 +5,7 @@ date: 2021-01-12
 author: Erik Lenells, systemutvecklare
 header:
   overlay_image: https://www.infozone.se/wp-content/uploads/2021/01/binary-code-inspection-picture-id1128503636.jpg
+  teaser: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/google-icon.png
 categories:
   - blog
 tags:
