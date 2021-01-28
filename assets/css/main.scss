@@ -127,7 +127,7 @@ article.archive__item {
 .archive__item-teaser {
     width: 160px;
     flex-shrink: 0;
-    padding: 1em 1em 0 0;
+    margin: 1em 1em 0 0;
     font-size: 1.25em;
 }
 
@@ -136,7 +136,7 @@ div.page__related div.archive__item-teaser {
 }
 
 .taxonomy__section div.archive__item-teaser {
-    padding-top: 0;
+    margin-top: 0;
 }
 
 @media screen and (max-width: 64em) {
