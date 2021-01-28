@@ -134,6 +134,10 @@ div.page__related div.archive__item-teaser {
     display: none;
 }
 
+.taxonomy__section div.archive__item-teaser {
+    padding-top: 0;
+}
+
 @media screen and (max-width: 64em) {
     .archive__item-teaser {
         width: 128px;
